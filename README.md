@@ -30,13 +30,13 @@ The research I have utilized:
 Algoritm: 
 
 <p align="center">
- <img width="656" alt="algo" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/60dd0ea1-7dab-49ba-a811-10d0718add9a">
+<img width="656" alt="algo" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/0e74c0d3-5f91-44f4-ba9b-9f76b1473799">
 </p>
 
 Example of a result: 
 
 <p align="center">
- <img width="656" alt="graph" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/c9821a0e-a7db-4c61-86a2-9bda3d48f0f2">
+<img width="656" alt="graph" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/a896e168-72a1-4a3c-929b-950a1c285dd3">
 </p>
 
 To see more, you can look at the project here: [Consistency increaser](https://github.com/mykhailo-arkhipov/consistency_increaser)
@@ -47,7 +47,8 @@ To see more, you can look at the project here: [Consistency increaser](https://g
 An indie game about an evil alchemist trying to create the most horrifying potions possible, but it doesn't always work out. That's why sometimes he ends up with potions that have a positive effect when he's not even trying.
 
 Examples of developed level and character models:
-<img width="1099" alt="gh_alch" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/28116532-3057-44df-bab7-9ef0192faf6c">
+
+<img width="1099" alt="gh_alch" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/15ee636d-28d4-4cdb-a549-8da6ff732df6">
 
 You can try experimenting with the potion-making algorithm and effects; you can find it here: [EvilPotions](https://github.com/mykhailo-arkhipov/EvilPotions)
 
@@ -57,4 +58,3 @@ I don't plan to release the code of the game publicly, but I'd be happy to share
 <p align="center">
   <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/hero_image.JPG" alt="hero-image" width="50%">
 </p>
-
