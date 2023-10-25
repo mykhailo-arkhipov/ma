@@ -48,7 +48,9 @@ An indie game about an evil alchemist trying to create the most horrifying potio
 
 Examples of developed level and character models:
 
+<p align="center">
 <img width="1099" alt="gh_alch" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/15ee636d-28d4-4cdb-a549-8da6ff732df6">
+</p>
 
 You can try experimenting with the potion-making algorithm and effects; you can find it here: [EvilPotions](https://github.com/mykhailo-arkhipov/EvilPotions)
 
@@ -56,5 +58,5 @@ I don't plan to release the code of the game publicly, but I'd be happy to share
 
 #### it's me by the way 
 <p align="center">
-  <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/hero_image.JPG" alt="hero-image" width="50%">
+  <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/hero_image.JPG" alt="hero-image" width="60%">
 </p>
