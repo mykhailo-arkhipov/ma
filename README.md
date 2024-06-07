@@ -42,7 +42,6 @@ Example of a result:
 To see more, you can look at the project here: [Consistency increaser](https://github.com/mykhailo-arkhipov/consistency_increaser)
 
 #### Indie-game Evil Potions
-**Release date ~02 or 03.2024*
 
 An indie game about an evil alchemist trying to create the most horrifying potions possible, but it doesn't always work out. That's why sometimes he ends up with potions that have a positive effect when he's not even trying.
 
