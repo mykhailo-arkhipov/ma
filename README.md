@@ -3,14 +3,13 @@
 </p>
 
 ### Hello 👋
-I am a **Java** developer with a background in QA automation. I am an effective worker and am ready for any type of work. However, my **unique** skill lies in my deep knowledge of PC hardware. Additionally, I am proficient in other areas, including C# and various testing frameworks. My interests encompass cosmic informatics, mobile development, and optimizing tools and features in old-school games.
+I am a **Java** developer with a background in QA automation. I am an effective worker and am ready for any type of work. However, my **unique** skill lies in my deep knowledge of PC hardware. Additionally, I am proficient in other areas various testing frameworks. My interests encompass cosmic informatics, mobile development, and optimizing tools and features in old-school games.
 ### Technologies 💻
 <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/java.png" title="Java" alt="Java" width="65" height="40"/>&nbsp;
 <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/junit.png" title="JUnit" alt="JUnit" width="125" height="40"/>&nbsp;
 <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/hib.png" title="HIB" alt="HIB" width="145" height="40"/>&nbsp;
 
 <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/adai.png" title="AI" alt="AI" width="65" height="40"/>&nbsp;
-<img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/sharp.png" title="Sharp" alt="Sharp" width="35" height="40"/>&nbsp;
 <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/spring.png" title="Spring" alt="Spring" width="140" height="40"/>&nbsp;
 <img src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/blob/main/sql.png" title="Sql" alt="Sql" width="85" height="40"/>&nbsp;
 ### Highlighting my skills and abilities with some projects
